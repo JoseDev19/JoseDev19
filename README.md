@@ -22,7 +22,7 @@
 
 <br />
 
-### ¡Hola! Soy Jose 🇪🇸
+### ¡Hola! Soy Jose
 
 Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** y técnico en **Sistemas Microinformáticos y Redes (SMR)**. Me enfoco en la administración de servidores Linux y Windows, configuración de redes, infraestructura cloud y despliegue de soluciones web interactivas.
 
