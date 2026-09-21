@@ -27,19 +27,18 @@
 
 <td width="60%" valign="top">
 
-<h3>👋 Hey, I'm Jose</h3>
+<h3>👋 Hola, soy Josee</h3>
 
 <p>
-I'm an <b>ASIR student</b> focused on systems, networks and infrastructure.
+I'm an <b>Soy estudiante de ASIR, enfocado en sistemas, redes e infraestructura.
 </p>
 
 <p>
-I enjoy working with Linux, servers, networks and learning how
-IT infrastructure works.
+Me gusta trabajar con Linux, servidores y redes, y aprender cómo funcionan y se gestionan las infraestructuras informáticas.
 </p>
 
 <p>
-I also have experience creating websites and web applications.
+También tengo experiencia creando páginas web y aplicaciones web.
 </p>
 
 </td>
