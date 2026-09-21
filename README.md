@@ -2,16 +2,20 @@
 
 <img src="./assets/hero.svg" width="100%">
 
-<br>
+<br><br>
 
 <a href="TU_PORTFOLIO">
 <img src="https://img.shields.io/badge/PORTFOLIO-0b0710?style=for-the-badge&logo=googlechrome&logoColor=c084fc">
 </a>
+
 &nbsp;
+
 <a href="TU_LINKEDIN">
 <img src="https://img.shields.io/badge/LINKEDIN-0b0710?style=for-the-badge&logo=linkedin&logoColor=c084fc">
 </a>
+
 &nbsp;
+
 <a href="https://github.com/JoseDev19">
 <img src="https://img.shields.io/badge/GITHUB-0b0710?style=for-the-badge&logo=github&logoColor=ffffff">
 </a>
@@ -20,44 +24,42 @@
 
 <br>
 
+---
+
+<h2>01 / ABOUT</h2>
+
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-<h2>👋 About me</h2>
+<h3>👋 Hello, I'm Jose</h3>
 
 <p>
-I'm <b>Jose</b>, an <b>ASIR student</b> interested in systems,
-networks and web development.
+I'm an <b>ASIR student</b> interested in systems,
+networks, Linux and web development.
 </p>
 
 <p>
-I like building things, learning new technologies and
-experimenting with infrastructure.
+I enjoy learning by building projects, experimenting
+with infrastructure and understanding how technology works.
 </p>
 
 <p>
-🖥️ Systems<br>
-🌐 Networks<br>
-🐧 Linux<br>
-🐳 Docker<br>
-💻 Web development
+Currently studying <b>Administración de Sistemas Informáticos en Red</b>.
 </p>
 
 </td>
 
-<td width="45%" valign="top">
-
-<h2>⚡ Quick info</h2>
+<td width="40%" valign="top">
 
 <pre>
 USER       JoseDev19
 STUDY      ASIR
-FOCUS      Systems + Web
-OS         Linux / Windows
-STATUS     Learning & Building
-LOCATION   Spain
+FOCUS      SYSTEMS / WEB
+OS         LINUX / WINDOWS
+STATUS     LEARNING
+LOCATION   SPAIN
 </pre>
 
 </td>
@@ -65,17 +67,9 @@ LOCATION   Spain
 </tr>
 </table>
 
-<br>
+---
 
-<h2>🛠️ Tech Stack</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,html,css,js,nginx,vscode&theme=dark">
-
-</div>
-
-<br>
+<h2>02 / WHAT I BUILD</h2>
 
 <table>
 <tr>
@@ -119,63 +113,66 @@ Web Apps
 </tr>
 </table>
 
-<br>
+---
 
-<h2>🚀 Projects</h2>
+<h2>03 / PROJECTS</h2>
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-<h3>🌐 Portfolio</h3>
+<h3>🟣 Portfolio</h3>
 
 <p>
-Personal website where I showcase my work and projects.
+Personal portfolio where I showcase my work,
+projects and development.
 </p>
 
-<b>HTML · CSS · JS</b>
-
-<br><br>
+<p>
+<b>HTML · CSS · JAVASCRIPT</b>
+</p>
 
 <a href="TU_PORTFOLIO">
-<img src="https://img.shields.io/badge/VIEW-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/OPEN-a855f7?style=for-the-badge&logo=googlechrome&logoColor=ffffff">
 </a>
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3>🖥️ Infrastructure</h3>
+<h3>⚙️ Infrastructure</h3>
 
 <p>
-Labs and projects related to servers, systems and networking.
+Systems, servers, Linux and networking
+labs and projects.
 </p>
 
-<b>Linux · Docker · Servers</b>
-
-<br><br>
+<p>
+<b>LINUX · DOCKER · SERVERS</b>
+</p>
 
 <a href="https://github.com/JoseDev19">
-<img src="https://img.shields.io/badge/GITHUB-a855f7?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW-a855f7?style=for-the-badge&logo=github&logoColor=ffffff">
 </a>
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3>💻 Web Projects</h3>
+<h3>🌐 Web Projects</h3>
 
 <p>
-Websites and applications created while learning.
+Websites and applications created
+during my learning process.
 </p>
 
-<b>HTML · CSS · JavaScript</b>
-
-<br><br>
+<p>
+<b>HTML · CSS · JAVASCRIPT</b>
+</p>
 
 <a href="https://github.com/JoseDev19">
-<img src="https://img.shields.io/badge/EXPLORE-a855f7?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE-a855f7?style=for-the-badge&logo=github&logoColor=ffffff">
 </a>
 
 </td>
@@ -183,9 +180,35 @@ Websites and applications created while learning.
 </tr>
 </table>
 
-<br>
+---
 
-<h2>💻 Terminal</h2>
+<h2>04 / TECH STACK</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,html,css,js,nginx,vscode&theme=dark">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LINUX-0b0710?style=flat-square&logo=linux&logoColor=c084fc">
+
+<img src="https://img.shields.io/badge/BASH-0b0710?style=flat-square&logo=gnubash&logoColor=a855f7">
+
+<img src="https://img.shields.io/badge/DOCKER-0b0710?style=flat-square&logo=docker&logoColor=c084fc">
+
+<img src="https://img.shields.io/badge/GIT-0b0710?style=flat-square&logo=git&logoColor=a855f7">
+
+<img src="https://img.shields.io/badge/HTML-0b0710?style=flat-square&logo=html5&logoColor=c084fc">
+
+<img src="https://img.shields.io/badge/CSS-0b0710?style=flat-square&logo=css3&logoColor=a855f7">
+
+<img src="https://img.shields.io/badge/JS-0b0710?style=flat-square&logo=javascript&logoColor=c084fc">
+
+</div>
+
+---
+
+<h2>05 / TERMINAL</h2>
 
 <div align="center">
 
@@ -195,32 +218,41 @@ Websites and applications created while learning.
 ├──────────────────────────────────────────────────────┤
 │                                                      │
 │  $ whoami                                            │
+│                                                      │
 │  jose                                                 │
 │                                                      │
-│  $ echo "building..."                                │
-│  systems • networks • web                            │
+│  $ ./build.sh                                        │
 │                                                      │
-│  $ status                                             │
-│  [████████████████████] ONLINE                       │
+│  systems................. [ OK ]                     │
+│  networks................ [ OK ]                     │
+│  linux................... [ OK ]                     │
+│  docker.................. [ OK ]                     │
+│  web..................... [ OK ]                     │
+│                                                      │
+│  $ echo "keep building"                              │
+│                                                      │
+│  keep building_                                      │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 </pre>
 
 </div>
 
-<br>
+---
 
-<h2>📊 GitHub</h2>
+<h2>06 / GITHUB</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoseDev19&show_icons=true&hide_border=true&bg_color=0b0710&title_color=a855f7&icon_color=c084fc&text_color=ffffff">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoseDev19&show_icons=true&hide_border=true&bg_color=0b0710&title_color=a855f7&icon_color=c084fc&text_color=ffffff">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDev19&layout=compact&hide_border=true&bg_color=0b0710&title_color=a855f7&text_color=ffffff">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDev19&layout=compact&hide_border=true&bg_color=0b0710&title_color=a855f7&text_color=ffffff">
 
 </div>
 
-<br>
+---
+
+<h2>07 / ACTIVITY</h2>
 
 <div align="center">
 
@@ -228,46 +260,80 @@ Websites and applications created while learning.
 
 </div>
 
-<br>
+---
+
+<h2>08 / CURRENTLY</h2>
 
 <table>
 <tr>
 
 <td width="50%" align="center">
 
-<h3>📚 Currently learning</h3>
+<h3>📚 STUDYING</h3>
 
-ASIR<br>
-Linux<br>
-Networks<br>
-Docker<br>
-Web Development
+ASIR
 
 </td>
 
 <td width="50%" align="center">
 
-<h3>🎯 Focus</h3>
+<h3>🔧 LEARNING</h3>
 
-Systems Administration<br>
-Infrastructure<br>
-Web Development<br>
-Personal Projects<br>
-Continuous Learning
+Systems · Networks · Linux
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🚀 BUILDING</h3>
+
+Websites · Applications
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🎯 GOAL</h3>
+
+Keep learning · Keep building
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
+
+<h2>09 / CONTACT</h2>
 
 <div align="center">
 
-<h2>⚡ BUILD • LEARN • BREAK • REPEAT</h2>
+<a href="TU_PORTFOLIO">
+<img src="https://img.shields.io/badge/MY_PORTFOLIO-a855f7?style=for-the-badge&logo=googlechrome&logoColor=ffffff">
+</a>
+
+&nbsp;
+
+<a href="TU_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-0b0710?style=for-the-badge&logo=linkedin&logoColor=c084fc">
+</a>
+
+&nbsp;
 
 <a href="https://github.com/JoseDev19">
-<img src="https://img.shields.io/badge/JoseDev19-0b0710?style=for-the-badge&logo=github&logoColor=a855f7">
+<img src="https://img.shields.io/badge/GITHUB-0b0710?style=for-the-badge&logo=github&logoColor=ffffff">
 </a>
+
+<br><br>
+
+<h3>BUILD • LEARN • BREAK • REPEAT</h3>
+
+<p>
+<b>JOSE DEV.</b>
+</p>
 
 </div>
