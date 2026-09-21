@@ -2,167 +2,272 @@
 
 <img src="./assets/hero.svg" width="100%">
 
-<br><br>
+<br>
 
 <a href="TU_PORTFOLIO">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0b0710?style=for-the-badge&logo=googlechrome&logoColor=c084fc">
+<img src="https://img.shields.io/badge/PORTFOLIO-0b0710?style=for-the-badge&logo=googlechrome&logoColor=c084fc">
 </a>
-
+&nbsp;
 <a href="TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0b0710?style=for-the-badge&logo=linkedin&logoColor=a855f7">
+<img src="https://img.shields.io/badge/LINKEDIN-0b0710?style=for-the-badge&logo=linkedin&logoColor=c084fc">
 </a>
-
+&nbsp;
 <a href="https://github.com/JoseDev19">
 <img src="https://img.shields.io/badge/GITHUB-0b0710?style=for-the-badge&logo=github&logoColor=ffffff">
 </a>
 
 </div>
 
+<br>
 
----
+<table>
+<tr>
 
-# `01 / ABOUT`
+<td width="55%" valign="top">
 
-```text
-Jose@dev:~$ cat about.txt
-Soy Jose, estudiante de Administración de Sistemas Informáticos en Red (ASIR) y técnico en Sistemas Microinformáticos y Redes (SMR).
+<h2>👋 About me</h2>
 
-Me interesa especialmente el mundo de los sistemas, redes, Linux, servidores, Docker y desarrollo web.
+<p>
+I'm <b>Jose</b>, an <b>ASIR student</b> interested in systems,
+networks and web development.
+</p>
 
-┌──────────────────────────────────────────────┐
-│                                              │
-│   SYSTEMS        ████████████████████  90%   │
-│   NETWORKS       ██████████████████░░  85%   │
-│   LINUX          █████████████████░░░  80%   │
-│   DOCKER         ███████████████░░░░░  75%   │
-│   WEB            █████████████████░░░  80%   │
-│                                              │
-└──────────────────────────────────────────────┘
-Me gusta aprender haciendo proyectos, configurando sistemas y experimentando con diferentes tecnologías.
+<p>
+I like building things, learning new technologies and
+experimenting with infrastructure.
+</p>
 
-02 / WHAT I BUILD
+<p>
+🖥️ Systems<br>
+🌐 Networks<br>
+🐧 Linux<br>
+🐳 Docker<br>
+💻 Web development
+</p>
+
+</td>
+
+<td width="45%" valign="top">
+
+<h2>⚡ Quick info</h2>
+
+<pre>
+USER       JoseDev19
+STUDY      ASIR
+FOCUS      Systems + Web
+OS         Linux / Windows
+STATUS     Learning & Building
+LOCATION   Spain
+</pre>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h2>🛠️ Tech Stack</h2>
+
 <div align="center">
-|   🖥️ SYSTEMS  | 🌐 NETWORKS |       💻 WEB      |
-| :------------: | :---------: | :---------------: |
-|      Linux     |    TCP/IP   |        HTML       |
-| Windows Server |     DNS     |        CSS        |
-|      Bash      |     DHCP    |     JavaScript    |
-|     Docker     |     VLAN    | Responsive Design |
-|      Nginx     |  Firewalls  |      Web Apps     |
+
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,html,css,js,nginx,vscode&theme=dark">
+
 </div>
 
-03 / PROJECTS
-<div align="center">
-╔════════════════════════════════════════════════════════════╗
-║                       MY PROJECTS                         ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  [01] PORTFOLIO                                           ║
-║       Personal portfolio and web projects                 ║
-║                                                            ║
-║       HTML • CSS • JAVASCRIPT                             ║
-║                                                            ║
-║  ──────────────────────────────────────────────────────    ║
-║                                                            ║
-║  [02] INFRASTRUCTURE LABS                                 ║
-║       Systems, servers and network practices              ║
-║                                                            ║
-║       LINUX • WINDOWS SERVER • DOCKER                     ║
-║                                                            ║
-║  ──────────────────────────────────────────────────────    ║
-║                                                            ║
-║  [03] WEB PROJECTS                                        ║
-║       Websites and applications                           ║
-║                                                            ║
-║       HTML • CSS • JAVASCRIPT                             ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-<a href="https://github.com/JoseDev19"> <img src="https://img.shields.io/badge/VIEW_MY_PROJECTS-a855f7?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
+<br>
 
-04 / TECH STACK
-<div align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,html,css,js,nginx,github,vscode&theme=dark">
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<h3>🖥️ SYSTEMS</h3>
+
+Linux<br>
+Windows Server<br>
+Bash<br>
+Docker<br>
+Nginx
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🌐 NETWORKS</h3>
+
+TCP/IP<br>
+DNS<br>
+DHCP<br>
+VLAN<br>
+Firewalls
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>💻 WEB</h3>
+
+HTML<br>
+CSS<br>
+JavaScript<br>
+Responsive Design<br>
+Web Apps
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h2>🚀 Projects</h2>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>🌐 Portfolio</h3>
+
+<p>
+Personal website where I showcase my work and projects.
+</p>
+
+<b>HTML · CSS · JS</b>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LINUX-0b0710?style=for-the-badge&logo=linux&logoColor=c084fc"> <img src="https://img.shields.io/badge/BASH-0b0710?style=for-the-badge&logo=gnubash&logoColor=a855f7"> <img src="https://img.shields.io/badge/DOCKER-0b0710?style=for-the-badge&logo=docker&logoColor=c084fc"> <img src="https://img.shields.io/badge/GIT-0b0710?style=for-the-badge&logo=git&logoColor=a855f7"> <br> <img src="https://img.shields.io/badge/HTML5-0b0710?style=for-the-badge&logo=html5&logoColor=c084fc"> <img src="https://img.shields.io/badge/CSS3-0b0710?style=for-the-badge&logo=css3&logoColor=a855f7"> <img src="https://img.shields.io/badge/JAVASCRIPT-0b0710?style=for-the-badge&logo=javascript&logoColor=c084fc"> <img src="https://img.shields.io/badge/NGINX-0b0710?style=for-the-badge&logo=nginx&logoColor=a855f7"> </div>
+<a href="TU_PORTFOLIO">
+<img src="https://img.shields.io/badge/VIEW-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
-05 / TERMINAL
-<div align="center">
-╔════════════════════════════════════════════════════════════╗
-║  ● ● ●                         jose@dev:~                 ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  $ whoami                                                  ║
-║                                                            ║
-║  jose                                                       ║
-║                                                            ║
-║  $ hostnamectl                                             ║
-║                                                            ║
-║  Operating System: Linux                                   ║
-║  Role: Developer / Sysadmin                                ║
-║  Focus: Systems / Networks / Web                          ║
-║                                                            ║
-║  $ ./build.sh                                              ║
-║                                                            ║
-║  systems................. [ OK ]                           ║
-║  networks................ [ OK ]                           ║
-║  linux................... [ OK ]                           ║
-║  docker.................. [ OK ]                           ║
-║  web..................... [ OK ]                           ║
-║                                                            ║
-║  $ echo "keep building"                                    ║
-║                                                            ║
-║  keep building_                                            ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-</div>
+</td>
 
-06 / GITHUB STATS
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoseDev19&show_icons=true&hide_border=true&bg_color=0b0710&title_color=a855f7&icon_color=c084fc&text_color=ffffff"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDev19&layout=compact&hide_border=true&bg_color=0b0710&title_color=a855f7&text_color=ffffff"> </div>
+<td width="33%" valign="top">
 
-07 / ACTIVITY
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseDev19&bg_color=0b0710&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true"> </div>
+<h3>🖥️ Infrastructure</h3>
 
-08 / CURRENTLY
-<div align="center">
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│   📚 STUDYING                                            │
-│      ASIR                                                │
-│                                                          │
-│   🖥️  WORKING WITH                                       │
-│      Systems / Networks / Linux                          │
-│                                                          │
-│   🌐 BUILDING                                            │
-│      Websites / Applications                             │
-│                                                          │
-│   🐳 LEARNING                                            │
-│      Docker / Infrastructure                              │
-│                                                          │
-│   🚀 GOAL                                                │
-│      Keep learning. Keep building.                       │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-</div>
+<p>
+Labs and projects related to servers, systems and networking.
+</p>
 
-09 / CONTACT
-<div align="center"> <a href="TU_PORTFOLIO"> <img src="https://img.shields.io/badge/MY_PORTFOLIO-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white"> </a>
-
-  
-
-<a href="TU_LINKEDIN"> <img src="https://img.shields.io/badge/LINKEDIN-0b0710?style=for-the-badge&logo=linkedin&logoColor=c084fc"> </a>
+<b>Linux · Docker · Servers</b>
 
 <br><br>
 
-<a href="https://github.com/JoseDev19"> <img src="https://img.shields.io/badge/GITHUB-0b0710?style=for-the-badge&logo=github&logoColor=ffffff"> </a>
+<a href="https://github.com/JoseDev19">
+<img src="https://img.shields.io/badge/GITHUB-a855f7?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>💻 Web Projects</h3>
+
+<p>
+Websites and applications created while learning.
+</p>
+
+<b>HTML · CSS · JavaScript</b>
 
 <br><br>
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║          BUILD SOMETHING. BREAK SOMETHING.                ║
-║                    LEARN. REPEAT.                         ║
-║                                                            ║
-║                       JOSE DEV.                           ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-</div> ```
+
+<a href="https://github.com/JoseDev19">
+<img src="https://img.shields.io/badge/EXPLORE-a855f7?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h2>💻 Terminal</h2>
+
+<div align="center">
+
+<pre>
+┌──────────────────────────────────────────────────────┐
+│  ● ● ●                         jose@dev:~            │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  $ whoami                                            │
+│  jose                                                 │
+│                                                      │
+│  $ echo "building..."                                │
+│  systems • networks • web                            │
+│                                                      │
+│  $ status                                             │
+│  [████████████████████] ONLINE                       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+</pre>
+
+</div>
+
+<br>
+
+<h2>📊 GitHub</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoseDev19&show_icons=true&hide_border=true&bg_color=0b0710&title_color=a855f7&icon_color=c084fc&text_color=ffffff">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDev19&layout=compact&hide_border=true&bg_color=0b0710&title_color=a855f7&text_color=ffffff">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseDev19&bg_color=0b0710&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>📚 Currently learning</h3>
+
+ASIR<br>
+Linux<br>
+Networks<br>
+Docker<br>
+Web Development
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🎯 Focus</h3>
+
+Systems Administration<br>
+Infrastructure<br>
+Web Development<br>
+Personal Projects<br>
+Continuous Learning
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<h2>⚡ BUILD • LEARN • BREAK • REPEAT</h2>
+
+<a href="https://github.com/JoseDev19">
+<img src="https://img.shields.io/badge/JoseDev19-0b0710?style=for-the-badge&logo=github&logoColor=a855f7">
+</a>
+
+</div>
