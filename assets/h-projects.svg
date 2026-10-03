@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#7C3AED" stop-opacity=".55"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern></defs><rect width="1000" height="64" fill="#0A0A0F"/>
+<rect x="0" y="14" width="6" height="36" rx="3" fill="url(#g)"/><text x="22" y="42" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#F5F3FF">Proyectos</text>
+<text x="1000" y="40" text-anchor="end" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="14" fill="#8E88A8">// webs publicadas</text><rect x="0" y="62" width="1000" height="1" fill="#2A2340"/></svg>
