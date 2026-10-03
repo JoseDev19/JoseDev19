@@ -1,295 +1,85 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%">
+<img src="./assets/hero.svg" width="100%" alt="JoseDev">
 
-<br><br>
-
-<a href="https://josedev19.github.io/001-portfolio/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-0b0710?style=for-the-badge&logo=googlechrome&logoColor=c084fc">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/jose-gutierrez-39253935/a/">
-<img src="https://img.shields.io/badge/LINKEDIN-0b0710?style=for-the-badge&logo=linkedin&logoColor=c084fc">
-</a>
+<a href="https://josedev19.github.io/001-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jose-gutierrez-39253935/"><img src="https://img.shields.io/badge/LINKEDIN-12101A?style=for-the-badge&logo=linkedin&logoColor=A78BFA"></a>
+<a href="mailto:josegutierrez1910delgadillo@gmail.com"><img src="https://img.shields.io/badge/EMAIL-12101A?style=for-the-badge&logo=gmail&logoColor=A78BFA"></a>
 
 </div>
 
-<br>
-
----
-
-<h2>01 / ABOUT</h2>
+<img src="./assets/h-about.svg" width="100%" alt="Sobre mí">
 
 <table>
 <tr>
+<td width="58%" valign="top">
 
-<td width="60%" valign="top">
+### Hola, soy José 👋
 
-<h3>👋 Hola, soy Josee</h3>
+Estudiante de **ASIR**, enfocado en sistemas, redes e infraestructura.
 
-<p>
-I'm an <b>Soy estudiante de ASIR, enfocado en sistemas, redes e infraestructura.
-</p>
-
-<p>
-Me gusta trabajar con Linux, servidores y redes, y aprender cómo funcionan y se gestionan las infraestructuras informáticas.
-</p>
-
-<p>
-También tengo experiencia creando páginas web y aplicaciones web.
-</p>
+Me gusta trabajar con Linux, servidores y redes, y entender cómo se gestionan las infraestructuras. También construyo **webs completas con panel de administración** en Next.js.
 
 </td>
+<td width="42%" valign="top">
 
-<td width="40%" valign="top">
-
-<pre>
-USER       JoseDev19
-STUDY      ASIR
-FOCUS      INFRASTRUCTURE
-SYSTEMS    LINUX / WINDOWS
-NETWORKS   TCP/IP
-STATUS     LEARNING
-LOCATION   SPAIN
-</pre>
+```text
+USER      JoseDev19
+STUDY     ASIR 2026/27
+FOCUS     Infra + Web
+SYSTEMS   Linux / Windows Server
+NETWORKS  TCP/IP · DNS · VLAN
+STATUS    Learning
+LOCATION  Spain
+```
 
 </td>
-
 </tr>
 </table>
 
----
-
-<h2>02 / WHAT I WORK WITH</h2>
+<img src="./assets/h-stack.svg" width="100%" alt="Stack">
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/Linux-12101A?style=for-the-badge&logo=linux&logoColor=A78BFA"> <img src="https://img.shields.io/badge/Windows_Server-12101A?style=for-the-badge&logo=windows&logoColor=A78BFA"> <img src="https://img.shields.io/badge/Bash-12101A?style=for-the-badge&logo=gnubash&logoColor=A78BFA"> <img src="https://img.shields.io/badge/Docker-12101A?style=for-the-badge&logo=docker&logoColor=A78BFA"> <img src="https://img.shields.io/badge/Nginx-12101A?style=for-the-badge&logo=nginx&logoColor=A78BFA">
+
+<img src="https://img.shields.io/badge/TCP/IP-12101A?style=for-the-badge&logo=cisco&logoColor=A78BFA"> <img src="https://img.shields.io/badge/DNS-12101A?style=for-the-badge&logo=cloudflare&logoColor=A78BFA"> <img src="https://img.shields.io/badge/VLAN-12101A?style=for-the-badge&logo=cisco&logoColor=A78BFA"> <img src="https://img.shields.io/badge/Proxmox-12101A?style=for-the-badge&logo=proxmox&logoColor=A78BFA"> <img src="https://img.shields.io/badge/VirtualBox-12101A?style=for-the-badge&logo=virtualbox&logoColor=A78BFA">
+
+<img src="https://img.shields.io/badge/Next.js-12101A?style=for-the-badge&logo=nextdotjs&logoColor=A78BFA"> <img src="https://img.shields.io/badge/TypeScript-12101A?style=for-the-badge&logo=typescript&logoColor=A78BFA"> <img src="https://img.shields.io/badge/React-12101A?style=for-the-badge&logo=react&logoColor=A78BFA"> <img src="https://img.shields.io/badge/JavaScript-12101A?style=for-the-badge&logo=javascript&logoColor=A78BFA"> <img src="https://img.shields.io/badge/HTML-12101A?style=for-the-badge&logo=html5&logoColor=A78BFA"> <img src="https://img.shields.io/badge/CSS-12101A?style=for-the-badge&logo=css3&logoColor=A78BFA">
+
+<img src="https://img.shields.io/badge/Git-12101A?style=for-the-badge&logo=git&logoColor=A78BFA"> <img src="https://img.shields.io/badge/GitHub-12101A?style=for-the-badge&logo=github&logoColor=A78BFA"> <img src="https://img.shields.io/badge/Vercel-12101A?style=for-the-badge&logo=vercel&logoColor=A78BFA"> <img src="https://img.shields.io/badge/VS_Code-12101A?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA">
+
+</div>
+
+<img src="./assets/h-projects.svg" width="100%" alt="Proyectos">
 
 <table>
 <tr>
-
-<td width="33%" align="center">
-
-<h3>🖥️ SYSTEMS</h3>
-
-Linux<br>
-Windows Server<br>
-Bash<br>
-Docker<br>
-Nginx
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>🌐 NETWORKS</h3>
-
-TCP/IP<br>
-DNS<br>
-DHCP<br>
-VLAN<br>
-Networking
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>⚙️ INFRASTRUCTURE</h3>
-
-Virtualization<br>
-Servers<br>
-System Administration<br>
-Services<br>
-Deployment
-
-</td>
-
+<td width="50%"><a href="https://restaurante-next-delta.vercel.app"><img src="./assets/card-sabor.svg" alt="Sabor & Arte" width="100%"></a></td>
+<td width="50%"><a href="https://ironcore-fitness-udf1.vercel.app"><img src="./assets/card-ironcore.svg" alt="IronCore Fitness" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://innovatech-next.vercel.app"><img src="./assets/card-innovatech.svg" alt="InnovaTech" width="100%"></a></td>
+<td width="50%"><a href="https://mi-web-profesional-next.vercel.app"><img src="./assets/card-web.svg" alt="Mi web profesional" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/JoseDev19?tab=repositories"><img src="./assets/card-calc.svg" alt="Calculadora" width="100%"></a></td>
+<td width="50%"></td>
 </tr>
 </table>
 
-</div>
+<img src="./assets/h-terminal.svg" width="100%" alt="Terminal">
 
----
+<img src="./assets/terminal.svg" width="100%" alt="Terminal">
 
-<h2>03 / INFRASTRUCTURE</h2>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🐧 Linux</h3>
-
-Working with Linux environments, users,
-permissions, services, Bash and system administration.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LINUX-0b0710?style=for-the-badge&logo=linux&logoColor=c084fc">
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🪟 Windows Server</h3>
-
-Learning server administration, networking,
-DNS, Active Directory and remote services.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/WINDOWS_SERVER-0b0710?style=for-the-badge&logo=windows&logoColor=c084fc">
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🐳 Docker</h3>
-
-Learning containerization and deploying
-services in isolated environments.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/DOCKER-0b0710?style=for-the-badge&logo=docker&logoColor=c084fc">
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🌐 Networking</h3>
-
-TCP/IP, DNS, DHCP, VLANs and basic
-network infrastructure.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NETWORKING-0b0710?style=for-the-badge&logo=cisco&logoColor=c084fc">
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<h2>04 / TECH STACK</h2>
+<img src="./assets/h-contact.svg" width="100%" alt="Contacto">
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,html,css,js,nginx,vscode&theme=dark">
+Disponible para **prácticas**, proyectos de infraestructura o una web para tu negocio.
 
-<br><br>
-
-<img src="https://img.shields.io/badge/LINUX-0b0710?style=flat-square&logo=linux&logoColor=c084fc">
-<img src="https://img.shields.io/badge/BASH-0b0710?style=flat-square&logo=gnubash&logoColor=a855f7">
-<img src="https://img.shields.io/badge/DOCKER-0b0710?style=flat-square&logo=docker&logoColor=c084fc">
-<img src="https://img.shields.io/badge/GIT-0b0710?style=flat-square&logo=git&logoColor=a855f7">
-<img src="https://img.shields.io/badge/HTML-0b0710?style=flat-square&logo=html5&logoColor=c084fc">
-<img src="https://img.shields.io/badge/CSS-0b0710?style=flat-square&logo=css3&logoColor=a855f7">
-<img src="https://img.shields.io/badge/JAVASCRIPT-0b0710?style=flat-square&logo=javascript&logoColor=c084fc">
+<a href="mailto:josegutierrez1910delgadillo@gmail.com"><img src="https://img.shields.io/badge/ESCRÍBEME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
----
-
-<h2>05 / TERMINAL</h2>
-
-<div align="center">
-
-<pre>
-┌──────────────────────────────────────────────────────┐
-│  ● ● ●                         jose@dev:~            │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  $ whoami                                            │
-│  jose                                                 │
-│                                                      │
-│  $ focus                                             │
-│  systems / networks / infrastructure                │
-│                                                      │
-│  $ status                                            │
-│  linux................... [ OK ]                     │
-│  networks................ [ OK ]                     │
-│  docker.................. [ OK ]                     │
-│  servers................. [ OK ]                     │
-│  web..................... [ OK ]                     │
-│                                                      │
-│  $ echo "keep building"                              │
-│  keep building_                                      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-</pre>
-
-</div>
-
----
-
-<h2>06 / CURRENTLY</h2>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<h3>📚 STUDYING</h3>
-
-ASIR
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🔧 LEARNING</h3>
-
-Linux · Networks · Docker
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<h3>⚙️ BUILDING</h3>
-
-Infrastructure · Servers · Web
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🚀 GOAL</h3>
-
-Systems · Infrastructure · Development
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<h3>BUILD • LEARN • REPEAT</h3>
-
-<p>
-<b>JOSE DEV.</b>
-</p>
-
-</div>
+<img src="./assets/footer.svg" width="100%" alt="Build · Learn · Repeat">
